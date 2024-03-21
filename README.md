@@ -1,2 +1,2 @@
 # makemore
-Basic language model(s)
+Basic language model(s) following the tutorial series by Andrej Karpathy
